@@ -1,6 +1,6 @@
 # Docker for Nginx
 
-Create dockerfile for nginx and add deny POST requests into config file
+Create dockerfile for postgres and add create test user with test db.
 
 ## Getting started
 
